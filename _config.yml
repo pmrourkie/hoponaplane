@@ -1,7 +1,7 @@
 # Site
-name: Mediumish
-description: Jekyll Template for Blogging
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: Hoponaplane
+description: Hoponaplane coming soon.....
+meta_description: "Coming soon...."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
@@ -30,10 +30,10 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -41,7 +41,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
