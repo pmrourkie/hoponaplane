@@ -4,88 +4,22 @@ title: About hoponaplane
 comments: true
 ---
 
-Another test, and another.
+## Welcome to Hop on a plane
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Hop on a plane is a blog written by Richard and Jen - two enthusiastic travellers from London Who love travelling all over the place. Why another travel blog? Well, we were fed up of not being able to find travel blogs with suggested routes, etc so decided to set one up and share our experiences.
 
-### License & Download
+Between us, we've been to over 75 countries from 6 continents (with the 7th one coming soon...hopefully!)
 
-**Mediumish for Jekyll** is designed and developed by WowThemes.net and it is *free* for personal use.
+## Get in contact
 
-For commercial use, please, purchase a license ($10).
+Want to ask us a question, suggest an edit or a recommendation...then just get in contact via the below!
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mediumish-jekyll-template" target="_blank">Download Mediumish - Jekyll</a>
+## Some techy stuff....
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+This blog is hosted on gitpages with Jykall. Everything is written on an iPad, using the following;
 
-### Features
+- Editorial; for writing new posts and workflow 
+- Working Copy - For publishing to GitHub
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.0.0-alpha.6
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-    
-### How to Use
 
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
-
-#### Using Mediumish
-
-Download or Fork *Mediumish for Jekyll*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
-- YAML front matter
-    - post featured - <code>featured:true</code>
-    - post featured image - <code>image: assets/images/mypic.jpg</code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-    
-YAML Post Example:
-<pre>
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Page Example
-<pre>
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-</pre>
-
-#### Contribute
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+Enjoy!
