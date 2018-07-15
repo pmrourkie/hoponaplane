@@ -1,16 +1,23 @@
-# Site
-name: "Hop on a plane"
-description: "Helpfull tips, advice and Itineraries for places around the world."
-meta_description: "Hop on a plane test"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+---
+title: Hoponaplane
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Hop on a plane
+description: Helpfull tips, advice and Itineraries for places around the world.
+meta_description: Hop on a plane test
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
 paginate: 15
-baseurl: /hoponaplane
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-
-# Authors
+baseurl: "/hoponaplane"
+google_analytics: UA-46278016-1
+disqus: demowebsite
+mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
 authors:
   sal:
     name: Sal
@@ -19,7 +26,9 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: Author of Mediumish, a Bootstrap Medium styled template available
+      for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template
+      demo.
   john:
     name: John
     display_name: John
@@ -27,28 +36,24 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."        
+    description: This is the author box. Write a short description of the author here.
+      You are currently previewing Mediumish demo, a Jekyll template compatible with
+      Github pages.
   rich:
-        name: Richard
-        dispplay_name: Rich
-        gravatar: 
-        email: rourkie@gmail.com
-        web: https://www.richardallen.co.uk
-        description: "Another test."
-    
-# Plugins
+    name: Richard
+    dispplay_name: Rich
+    gravatar: 
+    email: rourkie@gmail.com
+    web: https://www.richardallen.co.uk
+    description: Another test.
 plugins:
-  - jekyll-paginate
-  - jekyll-archives
-
-# Archives
+- jekyll-paginate
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-
-# Other
+    category: "/category/:name/"
 markdown: kramdown
 highlighter: rouge

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About hoponaplane
+layout: page
 comments: true
 ---
 
