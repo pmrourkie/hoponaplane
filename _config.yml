@@ -1,11 +1,11 @@
 # Site
 name: "Hop on a plane"
-description: "Helpfull tips, advice and Iteraniers for places around the world."
+description: "Helpfull tips, advice and Itineraries for places around the world."
 meta_description: "Hop on a plane"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
-baseurl: /hoponaplane/
+baseurl: /hoponaplane
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
