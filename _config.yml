@@ -1,7 +1,7 @@
 # Site
 name: "Hop on a plane"
 description: "Helpfull tips, advice and Itineraries for places around the world."
-meta_description: "Hop on a plane"
+meta_description: "Hop on a plane test"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
@@ -28,7 +28,7 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."        
-    rich:
+  rich:
         name: Richard
         dispplay_name: Rich
         gravatar: 
