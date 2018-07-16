@@ -29,9 +29,9 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."        
   rich:
-        name: Richard
-        dispplay_name: Rich
-        gravatar: 
+        name: Rich
+        display_name: Rich
+        gravatar: b1cc14991db7a456fcd761680bbc8f81
         email: rourkie@gmail.com
         web: https://www.richardallen.co.uk
         description: "Another test."
@@ -47,7 +47,9 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/:name/:title'
+
+
 
 # Other
 markdown: kramdown

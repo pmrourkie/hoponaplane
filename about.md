@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About hoponaplane
-comments: true
+comments: false
 ---
-
-## Welcome to Hop on a plane
 
 Hop on a plane is a blog written by Richard and Jen - two enthusiastic travellers from London Who love travelling all over the place. Why another travel blog? Well, we were fed up of not being able to find travel blogs with suggested routes, etc so decided to set one up and share our experiences.
 
@@ -20,6 +18,8 @@ This blog is hosted on gitpages with Jykall. Everything is written on an iPad, u
 
 - Editorial; for writing new posts and workflow 
 - Working Copy - For publishing to GitHub
+
+
 
 
 Enjoy!
