@@ -1,11 +1,6 @@
 ---
 title: About hoponaplane
-<<<<<<< HEAD
 comments: false
-=======
-layout: page
-comments: true
->>>>>>> 25e24c2acd5e74f5f2ca9a270d5d955f19d75130
 ---
 
 Hop on a plane is a blog written by Richard and Jen - two enthusiastic travellers from London Who love travelling all over the place. Why another travel blog? Well, we were fed up of not being able to find travel blogs with suggested routes, etc so decided to set one up and share our experiences.
