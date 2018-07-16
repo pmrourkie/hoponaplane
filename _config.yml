@@ -40,7 +40,6 @@ authors:
       You are currently previewing Mediumish demo, a Jekyll template compatible with
       Github pages.
   rich:
-<<<<<<< HEAD
         name: Rich
         display_name: Rich
         gravatar: b1cc14991db7a456fcd761680bbc8f81
@@ -49,14 +48,6 @@ authors:
         description: "Another test."
     
 # Plugins
-=======
-    name: Richard
-    dispplay_name: Rich
-    gravatar: 
-    email: rourkie@gmail.com
-    web: https://www.richardallen.co.uk
-    description: Another test.
->>>>>>> 25e24c2acd5e74f5f2ca9a270d5d955f19d75130
 plugins:
 - jekyll-paginate
 - jekyll-archives
@@ -65,14 +56,10 @@ jekyll-archives:
   - categories
   layout: archive
   permalinks:
-<<<<<<< HEAD
     category: '/:name/:title'
 
 
 
 # Other
-=======
-    category: "/category/:name/"
->>>>>>> 25e24c2acd5e74f5f2ca9a270d5d955f19d75130
 markdown: kramdown
 highlighter: rouge
