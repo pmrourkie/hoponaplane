@@ -59,6 +59,55 @@ margin-bottom: 25px;}
 	color: white;
 }
 
+
+
+.homescreen{
+	padding-top: 0;
+	height: 800px;
+	background-image: url(https://images.unsplash.com/photo-1498307833015-e7b400441eb8?ixlib=rb-0.3.5&s=e1b50f3af9b953e9db75d4daeae43bea&auto=format&fit=crop&w=2900&q=80);
+background-size: cover;
+margin-bottom: 25px;}
+
+.homescreen .sitetitle{
+	padding-top: 10%; 
+	height: 40px;
+	line-height: 90px;
+	text-align: center;
+	color: white;
+}
+
+.homescreen h1.sitetitle{
+	font-size: 90px;
+	padding-bottom: 5%;
+}
+
+
+@media (max-width:576px) {
+	.homescreen h1.sitetitle{
+		font-size: 90px;
+		padding-bottom: 50%;
+	}
+
+.homescreen .lead{
+	line-height: 20px!important;
+	padding-top: 10%;
+}
+
+}
+
+@media (max-width:992px) {
+	.homescreen h1.sitetitle{
+		font-size: 90px;
+		padding-bottom: 40%;
+	}
+}
+
+
+.homescreen .lead{
+	height: 40px;
+	line-height: 90px;
+	text-align: center;
+	color: white;
 }
 
 
