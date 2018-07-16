@@ -56,7 +56,7 @@ jekyll-archives:
   - categories
   layout: archive
   permalinks:
-    category: '/:name/:title'
+    category: '/:categories/:title'
 
 
 
