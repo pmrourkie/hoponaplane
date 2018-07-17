@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: hop
-webhook_url: 
+webhook_url: ''
 collections:
 - path: ''
   label: Pages
