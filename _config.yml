@@ -45,7 +45,7 @@ authors:
         gravatar: b1cc14991db7a456fcd761680bbc8f81
         email: rourkie@gmail.com
         web: https://www.richardallen.co.uk
-        description: "Another test."
+        description: Another test.
     
 # Plugins
 plugins:
@@ -56,7 +56,7 @@ jekyll-archives:
   - categories
   layout: archive
   permalinks:
-    category: '/:categories/:title'
+    category: '/category/:name/'
 
 
 
